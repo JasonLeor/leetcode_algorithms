@@ -12,7 +12,7 @@ public class AddTowNumbers_2 {
     }
 
     /**
-     * 连表结构
+     * 链表表结构
      */
     class ListNode{
         int val;
